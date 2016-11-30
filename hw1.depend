@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\serg_pc\documents\oop\hw1\hw1\main.cpp
+	<iostream>
+
+1479383352 source:c:\users\serg_pc\documents\oop\hw1\hw1\src\string.cpp
+	"String.h"
+
+1479383378 c:\users\serg_pc\documents\oop\hw1\hw1\include\string.h
+
